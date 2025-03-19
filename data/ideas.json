@@ -1,0 +1,164 @@
+[
+  {
+    "id": "1",
+    "summary": "Add Dark Mode",
+    "description": "Implement a dark mode theme for better usability in low-light environments.",
+    "employeeId": "1",
+    "priority": "Medium",
+    "upvotes": 24,
+    "downvotes": 7
+  },
+  {
+    "summary": "Testing a new Idea",
+    "description": "test",
+    "employeeId": "2",
+    "priority": "Medium",
+    "id": "2",
+    "upvotes": 16,
+    "downvotes": 5
+  },
+  {
+    "summary": "Test 3",
+    "description": "Test 3",
+    "employeeId": "4",
+    "priority": "Medium",
+    "id": "3",
+    "upvotes": 9,
+    "downvotes": 1
+  },
+  {
+    "summary": "Testing an idea 3",
+    "description": "This is my test idea",
+    "employeeId": "7",
+    "priority": "Medium",
+    "id": "4",
+    "upvotes": 0,
+    "downvotes": 0
+  },
+  {
+    "summary": "Testing an idea 3",
+    "description": "This is my test idea",
+    "employeeId": "7",
+    "priority": "Medium",
+    "id": "5",
+    "upvotes": 4,
+    "downvotes": 3
+  },
+  {
+    "summary": "Testing a new Idea 4",
+    "description": "test idea4",
+    "employeeId": "8",
+    "priority": "High",
+    "id": "6",
+    "upvotes": 0,
+    "downvotes": 0
+  },
+  {
+    "summary": "Testing a new Idea 6",
+    "description": "Testing a new Idea 6",
+    "employeeId": "5",
+    "priority": "Low",
+    "id": "7",
+    "upvotes": 4,
+    "downvotes": 4
+  },
+  {
+    "summary": "Testing a new Idea 6",
+    "description": "Testing a new Idea 6",
+    "employeeId": "5",
+    "priority": "Low",
+    "id": "8",
+    "upvotes": 46,
+    "downvotes": 19
+  },
+  {
+    "summary": "10- Test",
+    "description": "10--test",
+    "employeeId": "6",
+    "priority": "Medium",
+    "id": "9",
+    "upvotes": 0,
+    "downvotes": 0
+  },
+  {
+    "summary": "10- Test",
+    "description": "10--test",
+    "employeeId": "6",
+    "priority": "Medium",
+    "id": "10",
+    "upvotes": 0,
+    "downvotes": 0
+  },
+  {
+    "summary": "10- Test",
+    "description": "10--test",
+    "employeeId": "6",
+    "priority": "Medium",
+    "id": "11",
+    "upvotes": 0,
+    "downvotes": 0
+  },
+  {
+    "summary": "19th March Idea",
+    "description": "This is a 19th March idea",
+    "employeeId": "3",
+    "priority": "Medium",
+    "id": "12",
+    "upvotes": 0,
+    "downvotes": 0
+  },
+  {
+    "summary": "Testing new idea-12",
+    "description": "Test description",
+    "employeeId": "8",
+    "priority": "Medium",
+    "id": "13",
+    "upvotes": 0,
+    "downvotes": 0
+  },
+  {
+    "summary": "Testing new idea-12",
+    "description": "Test description",
+    "employeeId": "8",
+    "priority": "Medium",
+    "id": "14",
+    "upvotes": 0,
+    "downvotes": 0
+  },
+  {
+    "summary": "Testing new idea-12",
+    "description": "Test description",
+    "employeeId": "8",
+    "priority": "Medium",
+    "id": "15",
+    "upvotes": 0,
+    "downvotes": 0
+  },
+  {
+    "summary": "Testing a new Idea-19 2",
+    "description": "Testing a new Idea-19 2",
+    "employeeId": "7",
+    "priority": "Medium",
+    "id": "16",
+    "upvotes": 0,
+    "downvotes": 0
+  },
+  {
+    "summary": "Testing a new Idea-19 2",
+    "description": "Testing a new Idea-19 2",
+    "employeeId": "7",
+    "priority": "Medium",
+    "id": "17",
+    "upvotes": 0,
+    "downvotes": 0
+  },
+  {
+    "summary": "Testing a new Idea-20",
+    "description": "20 description",
+    "employeeId": "7",
+    "priority": "High",
+    "id": "18",
+    "upvotes": 0,
+    "downvotes": 0
+  }
+]
