@@ -39,7 +39,7 @@ a)	Prerequisites
 •	pnpm (v8 or higher)
 b)	Installation
 Clone the repository:
-git clone https://github.com/your-username/cloudhive-idea-portal.git
+git clone https://github.com/rsingh1/cloudhive-idea-portal.git
 Navigate to the project directory:
 cd cloudhive-idea-portal
 Install dependencies:
