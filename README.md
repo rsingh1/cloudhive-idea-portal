@@ -1,4 +1,4 @@
-CloudHive Feature Idea Portal
+<ins>**CloudHive Feature Idea Portal**</ins>
 The CloudHive Feature Idea Portal is an internal web application that allows employees to submit, explore, and vote on feature ideas for the Integration Hub product. This tool fosters innovation and collaboration within the company by enabling employees to shape the product roadmap.
 
 Table of Contents
@@ -69,7 +69,7 @@ Implement role-based access control (e.g., admins can delete ideas, while regula
 Advanced Sorting and Filtering:
 Allow users to sort ideas by different criteria (e.g., upvotes, downvotes, date created).
 Add advanced filtering options (e.g., filter by priority, employee, or date range).
-Real-Time Updates:
+<ins>**Real-Time Updates:**</ins>
 Use WebSockets or server-sent events (SSE) to provide real-time updates when ideas are added, updated, or voted on.
 Analytics Dashboard:
 Add a dashboard to display analytics, such as the most popular ideas, top contributors, and voting trends.
