@@ -1,11 +1,13 @@
 'use client'
 import { useQuery } from '@tanstack/react-query';
 import { fetchIdeaById } from '@/ideaapi/api';
+import {use} from 'react';
 
-export default function IdeaDetails({ params }: { params: { id: string } }) {
+export default function IdeaDetails({ params }) {
+  const { id } = use(params);
   const { data: idea, isLoading } = useQuery({
-    queryKey: ['idea', params.id],
-    queryFn: () => fetchIdeaById(params.id),
+    queryKey: ['idea', id],
+    queryFn: () => fetchIdeaById(id),
   });
 
   if (isLoading) return <div>Loading...</div>;

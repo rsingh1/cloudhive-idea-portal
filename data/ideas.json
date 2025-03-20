@@ -95,7 +95,7 @@
     "employeeId": "6",
     "priority": "Medium",
     "id": "11",
-    "upvotes": 0,
+    "upvotes": 11,
     "downvotes": 0
   },
   {
@@ -149,7 +149,7 @@
     "employeeId": "7",
     "priority": "Medium",
     "id": "17",
-    "upvotes": 0,
+    "upvotes": 14,
     "downvotes": 0
   },
   {
@@ -158,6 +158,15 @@
     "employeeId": "7",
     "priority": "High",
     "id": "18",
+    "upvotes": 0,
+    "downvotes": 0
+  },
+  {
+    "summary": "Testing adding new idea bug fixes",
+    "description": "Testing the new idea",
+    "employeeId": "9",
+    "priority": "High",
+    "id": "19",
     "upvotes": 0,
     "downvotes": 0
   }
